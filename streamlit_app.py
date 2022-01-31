@@ -73,7 +73,7 @@ def map(data, lat, lon, zoom):
 row1_1, row1_2 = st.columns((2,3))
 
 with row1_1:
-    st.title("NYC Uber Ridesharing Data")
+    st.title("NYC Uber Ridesharing Data [MOD]")
     hour_selected = st.slider("Select hour of pickup", 0, 23)
 
 with row1_2:
